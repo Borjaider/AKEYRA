@@ -5,7 +5,7 @@ There is no good reason to keep the traditional keyboard layout: we can make bet
 
 A rectangular form factor is not necessary for keyboards: a 100% full-sized keyboard will most likely stay home. 
 
-A big value or a visual interface is not having to depend on your memory, but rather on your visual/muscular memory.
+The value of a visual interface is not having to depend on your memory, but rather on your visual/muscular memory.
 
 AKEYRA gives you all a keyboard can give.
 
